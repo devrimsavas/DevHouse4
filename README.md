@@ -51,7 +51,7 @@ git clone https://github.com/noroff-backend-2/aug24ft-bet-ca-devrimsavas
 
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "Server=localhost;Database=devhouse1;user=root;password=YOUR_PASSWORD"
+  "DefaultConnection": "Server=localhost;Database=devhouse;user=root;password=YOUR_PASSWORD"
 },
 "JWTSettings": {
   "SecretKey": "<your-generated-secret>",

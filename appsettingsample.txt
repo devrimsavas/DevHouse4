@@ -1,0 +1,18 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=devhouse;user=root;password=<your-mysql-password>"
+  },
+  "JWTSettings": {
+    "SecretKey": "38a18e3031a07d6aadb566efe7c04df8333a86e66f61b5ff7c3e7a29d72f5322",
+    "Issuer": "MyIssuer",
+    "Audience": "MyAudience",
+    "ExpiryMinutes": 60
+  }
+}
