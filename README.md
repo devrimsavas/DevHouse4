@@ -43,8 +43,8 @@ dotnet add package System.IdentityModel.Tokens.Jwt --version 8.0.0
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-user/devhouse-api.git
-cd devhouse-api
+git clone https://github.com/noroff-backend-2/aug24ft-bet-ca-devrimsavas
+
 ```
 
 2. **Update `appsettings.json`**
